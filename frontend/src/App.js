@@ -1,12 +1,9 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 
-function App(props) {
+function App() {
   return (
-    <div>Web Pro</div>
+    <div>Web Pro App</div>
   )
 }
-
-App.propTypes = {}
 
 export default App
